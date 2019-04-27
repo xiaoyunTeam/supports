@@ -1,5 +1,5 @@
 {
-    "name": "xiaoyun.studio/supports",
+    "name": "xiaoyun/supports",
     "description": "common components",
     "keywords": ["support", "array", "collection", "config", "http", "guzzle"],
     "support": {
