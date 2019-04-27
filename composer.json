@@ -1,0 +1,26 @@
+{
+    "name": "xiaoyun.studio/supports",
+    "description": "common components",
+    "keywords": ["support", "array", "collection", "config", "http", "guzzle"],
+    "support": {
+        "issues": "https://github.com/xiaoyunTeam/supports/issues",
+        "source": "https://github.com/xiaoyunTeam/supports"
+    },
+    "authors": [
+        {
+            "name": "shustudio",
+            "email": "shustudio@yeah.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "monolog/monolog": "^1.23",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "XiaoYun\\Supports\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
