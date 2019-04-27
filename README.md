@@ -1,4 +1,4 @@
-<h1 align="center">xiaoyun.studio/supports</h1>
+<h1 align="center">xiaoyun/supports</h1>
 
 handle with array/config/log/guzzle etc.
 
